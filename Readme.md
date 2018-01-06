@@ -3,6 +3,7 @@ There are some sample inputs which represents how the board is input to the prog
 valid move with gravity applied.
 
 For example : 
+```
 K21  // refers to the position of the move where it started. Kth column, 21st row.
 ************************
 ************************
@@ -28,7 +29,7 @@ K21  // refers to the position of the move where it started. Kth column, 21st ro
 010000111111010110011011
 110110110111110100011011
 011011101100111110010100
-
+```
 
 The different digits on the board represent the fruits. This game is analogous to candy crush game. This game was written
 in a way that the output can act as a perfect input to another gameplaying agent. 
