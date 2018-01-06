@@ -30,4 +30,4 @@ K21  // refers to the position of the move where it started. Kth column, 21st ro
 011011101100111110010100
 
 The different digits on the board represent the fruits. This game is analogous to candy crush game. This game was written
-in a way that the output can act as a perfect input to another gameplaying agent.
+in a way that the output can act as a perfect input to another gameplaying agent. 
